@@ -374,6 +374,43 @@ body.light hr.separator {
 
 /*** Desktop Navigation ***/
 
+/*NAVBAR*/
+
+.headerTwo {
+    background-color: #ffffff;
+    padding: 5px 0;
+    height:70px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 1);
+    border-bottom: none !important;
+}
+
+    .headerTwo nav a {
+        color: #411;
+        font-size: 1rem;
+        background-color: transparent !important;
+        margin: 0 7px;
+        line-height: 1.5em;
+        transition: all 0.5s;
+        font-weight: 800;
+    }
+
+        .headerTwo nav a:hover {
+            color: #123b3b !important;
+        }
+
+        .headerTwo nav a.navbar-brand {
+            color: #123b3b;
+            font-size: 24px;
+        }
+
+    .headerTwo nav .nav-pills a.active {
+        color: #123b3b !important;
+    }
+.headerTwo-sticky nav a.navbar-brand {
+    color: #123b3b;
+}
+/*NAVBAR END*/
+
 @media (min-width: 992px) {
 
   /*** Navigation ***/

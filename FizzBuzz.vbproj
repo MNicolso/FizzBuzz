@@ -110,15 +110,15 @@
     <Content Include="Content\css\skins\yellowgreen.css" />
     <Content Include="Content\css\style.css" />
     <Content Include="Content\fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\img\Favicon.png" />
     <Content Include="Content\img\projects\navigation\close-button-light.png" />
     <Content Include="Content\img\projects\navigation\close-button.png" />
     <Content Include="Content\img\projects\navigation\left-arrow-light.png" />
     <Content Include="Content\img\projects\navigation\left-arrow.png" />
     <Content Include="Content\img\projects\navigation\right-arrow-light.png" />
     <Content Include="Content\img\projects\navigation\right-arrow.png" />
-    <Content Include="Content\img\tacocat.png" />
-    <Content Include="Content\img\tacocat2.png" />
     <Content Include="index.html" />
+    <Content Include="code.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\cbpGridGallery.js" />
     <Content Include="Scripts\classie.js" />

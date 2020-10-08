@@ -9,6 +9,10 @@
     document.getElementById('printBox').innerHTML = arrayModified;
 })
 
+document.getElementsByTagName("input").addEventListener("keydown", function (e) {
+    var character=(e.which)
+}
+
 function modifiedData(minInput, maxInput, fizzInput, buzzInput) {
     var arrayModified = "";
     for (let i = minInput; i<= maxInput; i++) {
